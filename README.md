@@ -14,18 +14,10 @@ Saya sudah tamat SD, SMP, dan SMA
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/afian-alimakki-1262a0202/) ku ya.
 
-<p align="left">
-<a href="https://github.com/afiianalimaki">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=afiianalimaki&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=afiianalimaki&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
 <p align="center">
   <img src="https://media.giphy.com/media/3Q2hJ4FLN1UvS/giphy.gif" width=50% title="Hi, nice to meet you!">
 </p>
 
-<!-- Socials (Icons from https://icons8.com/) -->
 <p align="center">
   <a href="mailto:guopatrick.correspondence@gmail.com"><img src="https://img.icons8.com/doodle/96/000000/gmail-new.png" title="gmail">
   <a href="https://www.linkedin.com/in/patrickguo/"><img src="https://img.icons8.com/doodle/96/000000/linkedin-circled.png" title="linkedin">
@@ -33,8 +25,6 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
   <a href="https://open.spotify.com/user/12136002437?si=4e8d774530354a68"><img src="https://img.icons8.com/doodle/96/000000/spotify.png" title="spotify">
   <a href="https://github.com/shpatrickguo/shpatrickguo">
 </p>
-
-<!-- Gifs found on GIPHY made by @devrock -->
 <p align="center">
   <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" title="python">
   <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" title="javascript">
@@ -46,7 +36,6 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
   <img alt="sublime" src="https://media.giphy.com/media/jnDKffgCfGYOp6cMTK/giphy.gif" width="100" title="sublime">
 </p>
 
-<!-- Other Tools -->
 <p align="center">
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="50px" title="r"></span>
   <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="50px" title="jupyter"></span>
@@ -62,9 +51,12 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
   <span><img src="https://cdn.jsdelivr.net/npm/devicons@1.8.0/!SVG/ruby.svg" width="50px" title="ruby"></span
 </p>
   
-<p align="center">
-<img align="center" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=shpatrickguo&show_icons=true&theme=dark&hide=issues&hide_border=true&hide_title=true&count_private=true" >
-</p> 
+<p align="left">
+<a href="https://github.com/afiianalimaki">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=afiianalimaki&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=afiianalimaki&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
     
 <p align="center">
   <a href="#">

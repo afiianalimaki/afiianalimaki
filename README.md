@@ -21,12 +21,6 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 </a>
 </p>
 
-<p align="right">
-  <a href="#">
-      <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=shpatrickguo&repo=github-visitors-badge&countColor=%237B1E7A">
-   </a>
-</p>
-
 <p align="center">
   <img src="https://media.giphy.com/media/3Q2hJ4FLN1UvS/giphy.gif" width=50% title="Hi, nice to meet you!">
 </p>
@@ -70,4 +64,10 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
   
 <p align="center">
 <img align="center" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=shpatrickguo&show_icons=true&theme=dark&hide=issues&hide_border=true&hide_title=true&count_private=true" >
+</p> 
+    
+<p align="center">
+  <a href="#">
+      <img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=shpatrickguo&repo=github-visitors-badge&countColor=%237B1E7A">
+   </a>
 </p>

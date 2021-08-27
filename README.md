@@ -9,12 +9,12 @@
 </div>
 <div align="center">
   <h3> 
-    Saya seorang **Mahasiswa** di [Universitas Jember](https://unej.ac.id/).
+    Saya seorang Mahasiswa di Universitas Jember
   </h3>
 </div>
 <div align="center">
   <h3> 
-    Saya bertanggung jawab pada kualitas materi yang saya miliki.
+    Saya bertanggung jawab pada kualitas materi yang saya miliki
   </h3>
 </div>
 <div align="center">

@@ -19,11 +19,9 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 </p>
 
 <p align="center">
-  <a href="mailto:guopatrick.correspondence@gmail.com"><img src="https://img.icons8.com/doodle/96/000000/gmail-new.png" title="gmail">
-  <a href="https://www.linkedin.com/in/patrickguo/"><img src="https://img.icons8.com/doodle/96/000000/linkedin-circled.png" title="linkedin">
-  <a href="https://github.com/shpatrickguo"><img src="https://img.icons8.com/doodle/96/000000/github--v1.png" title="github">
-  <a href="https://open.spotify.com/user/12136002437?si=4e8d774530354a68"><img src="https://img.icons8.com/doodle/96/000000/spotify.png" title="spotify">
-  <a href="https://github.com/shpatrickguo/shpatrickguo">
+  <a href="afianazhar@gmail.com"><img src="https://img.icons8.com/doodle/96/000000/gmail-new.png" title="gmail">
+  <a href="https://www.linkedin.com/in/afian-alimakki-1262a0202/"><img src="https://img.icons8.com/doodle/96/000000/linkedin-circled.png" title="linkedin">
+  <a href="https://github.com/afiianalimaki"><img src="https://img.icons8.com/doodle/96/000000/github--v1.png" title="github">
 </p>
 <p align="center">
   <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" title="python">

@@ -19,7 +19,7 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 </p>
 
 <p align="center">
-  <a href="mailto.afianazhar@gmail.com"><img src="https://img.icons8.com/doodle/96/000000/gmail-new.png" title="gmail">
+  <a href="mailto:afianazhar@gmail.com"><img src="https://img.icons8.com/doodle/96/000000/gmail-new.png" title="gmail">
   <a href="https://www.linkedin.com/in/afian-alimakki-1262a0202/"><img src="https://img.icons8.com/doodle/96/000000/linkedin-circled.png" title="linkedin">
   <a href="https://github.com/afiianalimaki"><img src="https://img.icons8.com/doodle/96/000000/github--v1.png" title="github">
 </p>

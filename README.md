@@ -12,8 +12,6 @@ Saya bertanggung jawab pada kualitas materi yang saya miliki.
 
 Saya sudah tamat SD, SMP, dan SMA
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/afian-alimakki-1262a0202/) ku ya.
-
 <p align="center">
   <img src="https://media.giphy.com/media/3Q2hJ4FLN1UvS/giphy.gif" width=50% title="Hi, nice to meet you!">
 </p>

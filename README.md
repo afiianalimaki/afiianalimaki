@@ -7,13 +7,21 @@
     Halo Saya Afian Azhar Ali Makki
   </h2>
 </div>
-
-
-Saya seorang **Mahasiswa** di [Universitas Jember](https://unej.ac.id/).
-
-Saya bertanggung jawab pada kualitas materi yang saya miliki.
-
-Saya sudah tamat SD, SMP, dan SMA
+<div align="center">
+  <h3> 
+    Saya seorang **Mahasiswa** di [Universitas Jember](https://unej.ac.id/).
+  </h3>
+</div>
+<div align="center">
+  <h3> 
+    Saya bertanggung jawab pada kualitas materi yang saya miliki.
+  </h3>
+</div>
+<div align="center">
+  <h3>   
+    Saya sudah tamat SD, SMP, dan SMA
+  </h3>
+</div>
 
 <p align="center">
   <img src="file:///E:/IMG20191226130743.jpg" width=50% title="Hi, nice to meet you!">

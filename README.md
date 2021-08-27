@@ -24,7 +24,7 @@
 </div>
 
 <p align="center">
-  <img src="file:///E:/IMG20191226130743.jpg" width=50% title="Hi, nice to meet you!">
+  <title="Hi, nice to meet you!">
 </p>
 
 <p align="center">

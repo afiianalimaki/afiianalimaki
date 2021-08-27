@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-# AfianAzharAliMakki
-
 <div align="left">
   <h2> 
     Halo Saya Afian Azhar Ali Makki

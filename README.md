@@ -4,11 +4,10 @@
 
 <div align="center">
   <h2> 
-    Hi <img src="https://github.com/afiianalimaki/afiianalimaki/blob/main/gifs/hi.gif" width="30px"> I'm Afian
+    Halo Saya Afian Azhar Ali Makki
   </h2>
 </div>
 
-Perkenalkan nama saya **Afian Azhar Ali Makki**.
 
 Saya seorang **Mahasiswa** di [Universitas Jember](https://unej.ac.id/).
 

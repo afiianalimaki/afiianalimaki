@@ -13,7 +13,7 @@ Saya bertanggung jawab pada kualitas materi yang saya miliki.
 Saya sudah tamat SD, SMP, dan SMA
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3Q2hJ4FLN1UvS/giphy.gif" width=50% title="Hi, nice to meet you!">
+  <img src="file:///E:/IMG20191226130743.jpg" width=50% title="Hi, nice to meet you!">
 </p>
 
 <p align="center">

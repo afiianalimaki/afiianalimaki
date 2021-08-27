@@ -2,22 +2,22 @@
 
 # AfianAzharAliMakki
 
-<div align="center">
+<div align="left">
   <h2> 
     Halo Saya Afian Azhar Ali Makki
   </h2>
 </div>
-<div align="center">
+<div align="left">
   <h3> 
     Saya seorang Mahasiswa di Universitas Jember
   </h3>
 </div>
-<div align="center">
+<div align="left">
   <h3> 
     Saya bertanggung jawab pada kualitas materi yang saya miliki
   </h3>
 </div>
-<div align="center">
+<div align="left">
   <h3>   
     Saya sudah tamat SD, SMP, dan SMA
   </h3>
